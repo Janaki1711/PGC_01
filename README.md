@@ -53,28 +53,6 @@ flowchart LR
 
 ---
 
-## Repository Structure
-
-```
-PGC_01/
-├── README.md                                           # Master Lab Documentation & Benchmark Report
-├── .gitignore                                          # Git ignore rules for build artifacts & binaries
-├── src/                                                # Source Code Implementations
-│   └── parallel_sum.c                                  # OpenMP Parallel Sum & Average Program
-├── docs/                                               # Lab Presentation & Documentation
-│   └── PGC_Presentation.pptx                           # Experiment Presentation Slides (.pptx)
-├── images/                                             # Screenshots & Performance Charts
-│   ├── performance_comparison_charts.png               # Combined Execution Time & Speedup Bar Chart
-│   ├── execution_time_vs_threads.png                   # Execution Time Scaling Curve
-│   ├── speedup_vs_threads.png                          # Speedup Factor vs. Baseline Chart
-│   ├── 01_environment_compilation.png                  # Environment Setup & GCC Compilation Screenshot
-│   ├── 02_execution_1_2_4_threads.png                  # Output for Default, 1, 2, and 4 Threads
-│   └── 03_execution_8_12_threads.png                   # Output for 8 and 12 Threads
-└── scripts/
-    └── generate_charts.py                              # Python Script to regenerate performance charts
-```
-
----
 
 ## 1. Experiment Objectives
 
