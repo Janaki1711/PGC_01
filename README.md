@@ -39,19 +39,6 @@ flowchart LR
 
 ---
 
-## Table of Contents
-
-1. [Repository Structure](#repository-structure)
-2. [Experiment Objectives](#1-experiment-objectives)
-3. [Theoretical & Architectural Comparison](#2-theoretical--architectural-comparison)
-4. [Workload Specification](#3-workload-specification)
-5. [Source Code References](#4-source-code-references)
-6. [Empirical Results & Screenshots](#5-empirical-results--screenshots)
-7. [Performance Comparison & Visualizations](#6-performance-comparison--visualizations)
-8. [Technical Analysis & Discussion](#7-technical-analysis--discussion)
-9. [Conclusion & Engineering Takeaways](#8-conclusion--engineering-takeaways)
-
----
 
 
 ## 1. Experiment Objectives
